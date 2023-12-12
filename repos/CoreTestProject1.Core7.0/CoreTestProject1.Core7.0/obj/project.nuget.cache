@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AZpi6R9R9mgANqDCFh/IJI3SPwvkfN+rTQyAOitUZvUvdctdbqhSToS+SfgV6/lybIHVcfUs3oGoKGqM0dIhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\whizt\\source\\repos\\CoreTestProject1.Core7.0\\CoreTestProject1.Core7.0\\CoreTestProject1.Core7.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whizt\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4N/mMAhfXjhyM0kxcQN8Zn7ll0mWti3sjV3uDhrRY5s=",
+  "Source": "EncryptANDDecryptWebAPI",
+  "BasePath": "_content/EncryptANDDecryptWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

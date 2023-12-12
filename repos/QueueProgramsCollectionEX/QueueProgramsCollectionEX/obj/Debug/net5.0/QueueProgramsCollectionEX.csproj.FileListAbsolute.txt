@@ -1,0 +1,16 @@
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\bin\Debug\net5.0\QueueProgramsCollectionEX.exe
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\bin\Debug\net5.0\QueueProgramsCollectionEX.deps.json
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\bin\Debug\net5.0\QueueProgramsCollectionEX.runtimeconfig.json
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\bin\Debug\net5.0\QueueProgramsCollectionEX.runtimeconfig.dev.json
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\bin\Debug\net5.0\QueueProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\bin\Debug\net5.0\QueueProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\QueueProgramsCollectionEX.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\QueueProgramsCollectionEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\QueueProgramsCollectionEX.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\QueueProgramsCollectionEX.AssemblyInfo.cs
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\QueueProgramsCollectionEX.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\QueueProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\refint\QueueProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\QueueProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\QueueProgramsCollectionEX.genruntimeconfig.cache
+C:\Users\whizt\source\repos\QueueProgramsCollectionEX\QueueProgramsCollectionEX\obj\Debug\net5.0\ref\QueueProgramsCollectionEX.dll

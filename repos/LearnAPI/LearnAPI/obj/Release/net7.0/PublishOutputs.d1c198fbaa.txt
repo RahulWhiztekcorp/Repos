@@ -1,0 +1,12 @@
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\LearnAPI.exe
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\LearnAPI.dll
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\LearnAPI.deps.json
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\LearnAPI.runtimeconfig.json
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\LearnAPI.pdb
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\whizt\source\repos\LearnAPI\LearnAPI\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

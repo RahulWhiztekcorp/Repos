@@ -1,0 +1,22 @@
+﻿@model MVCWithEFCF1.Models.Category
+@{
+    ViewBag.Title = "DisplayCategory";
+}
+<h2>DisplayCategory</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>@Html.DisplayNameFor(C => C.CategoryId)</th>
+        <th>@Html.DisplayNameFor(C => C.CategoryName)</th>
+        <th>@Html.DisplayNameFor(C => C.Description)</th>
+    </tr>
+    <tr>
+        <td>@Model.CategoryId</td>
+        <td>@Model.CategoryName</td>
+        <td>@Model.Description</td>
+    </tr>
+    <tr>
+       <td colspan="4" align="center">
+         @Html.ActionLink("Back to Category Details", "DisplayCategories")
+       </td>
+    </tr>
+</table>

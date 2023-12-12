@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "IndexCookies";
+}
+@{
+    HttpCookie cookie = Request.Cookies["ProductCookie"];
+    int Id = int.Parse(cookie["Id"]);
+    string Name = cookie["Name"];
+    double Price = double.Parse(cookie["Price"]);
+}
+
+<h2>IndexCookies</h2>
+
+<table border="1" align="center" width="20%">
+    <caption>Product Details</caption>
+    <tr><td>Id:</td><td>@Id</td></tr>
+    <tr><td>Name:</td><td>@Name</td></tr>
+</table>

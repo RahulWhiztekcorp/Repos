@@ -1,0 +1,15 @@
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\bin\Debug\net7.0\HashSetProgramsCollectionEX.exe
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\bin\Debug\net7.0\HashSetProgramsCollectionEX.deps.json
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\bin\Debug\net7.0\HashSetProgramsCollectionEX.runtimeconfig.json
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\bin\Debug\net7.0\HashSetProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\bin\Debug\net7.0\HashSetProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\HashSetProgramsCollectionEX.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\HashSetProgramsCollectionEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\HashSetProgramsCollectionEX.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\HashSetProgramsCollectionEX.AssemblyInfo.cs
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\HashSetProgramsCollectionEX.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\HashSetProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\refint\HashSetProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\HashSetProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\HashSetProgramsCollectionEX.genruntimeconfig.cache
+C:\Users\whizt\source\repos\HashSetProgramsCollectionEX\HashSetProgramsCollectionEX\obj\Debug\net7.0\ref\HashSetProgramsCollectionEX.dll

@@ -1,0 +1,7 @@
+C:\Users\whizt\source\repos\DeployApp\DeployApp\obj\Release\net6.0\PubTmp\Out\DeployApp.exe
+C:\Users\whizt\source\repos\DeployApp\DeployApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\whizt\source\repos\DeployApp\DeployApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\whizt\source\repos\DeployApp\DeployApp\obj\Release\net6.0\PubTmp\Out\DeployApp.dll
+C:\Users\whizt\source\repos\DeployApp\DeployApp\obj\Release\net6.0\PubTmp\Out\DeployApp.deps.json
+C:\Users\whizt\source\repos\DeployApp\DeployApp\obj\Release\net6.0\PubTmp\Out\DeployApp.runtimeconfig.json
+C:\Users\whizt\source\repos\DeployApp\DeployApp\obj\Release\net6.0\PubTmp\Out\DeployApp.pdb

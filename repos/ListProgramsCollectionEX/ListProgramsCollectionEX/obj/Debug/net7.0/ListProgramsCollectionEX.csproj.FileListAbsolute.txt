@@ -1,0 +1,15 @@
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\bin\Debug\net7.0\ListProgramsCollectionEX.exe
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\bin\Debug\net7.0\ListProgramsCollectionEX.deps.json
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\bin\Debug\net7.0\ListProgramsCollectionEX.runtimeconfig.json
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\bin\Debug\net7.0\ListProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\bin\Debug\net7.0\ListProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ListProgramsCollectionEX.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ListProgramsCollectionEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ListProgramsCollectionEX.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ListProgramsCollectionEX.AssemblyInfo.cs
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ListProgramsCollectionEX.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ListProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\refint\ListProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ListProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ListProgramsCollectionEX.genruntimeconfig.cache
+C:\Users\whizt\source\repos\ListProgramsCollectionEX\ListProgramsCollectionEX\obj\Debug\net7.0\ref\ListProgramsCollectionEX.dll

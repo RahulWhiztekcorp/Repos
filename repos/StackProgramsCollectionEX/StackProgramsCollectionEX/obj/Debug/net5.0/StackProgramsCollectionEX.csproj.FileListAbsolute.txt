@@ -1,0 +1,16 @@
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\bin\Debug\net5.0\StackProgramsCollectionEX.exe
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\bin\Debug\net5.0\StackProgramsCollectionEX.deps.json
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\bin\Debug\net5.0\StackProgramsCollectionEX.runtimeconfig.json
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\bin\Debug\net5.0\StackProgramsCollectionEX.runtimeconfig.dev.json
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\bin\Debug\net5.0\StackProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\bin\Debug\net5.0\StackProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\StackProgramsCollectionEX.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\StackProgramsCollectionEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\StackProgramsCollectionEX.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\StackProgramsCollectionEX.AssemblyInfo.cs
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\StackProgramsCollectionEX.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\StackProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\refint\StackProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\StackProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\StackProgramsCollectionEX.genruntimeconfig.cache
+C:\Users\whizt\source\repos\StackProgramsCollectionEX\StackProgramsCollectionEX\obj\Debug\net5.0\ref\StackProgramsCollectionEX.dll

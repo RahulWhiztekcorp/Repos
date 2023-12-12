@@ -1,0 +1,15 @@
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\bin\Debug\net7.0\SortedSetProgramsCollectionEX.exe
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\bin\Debug\net7.0\SortedSetProgramsCollectionEX.deps.json
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\bin\Debug\net7.0\SortedSetProgramsCollectionEX.runtimeconfig.json
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\bin\Debug\net7.0\SortedSetProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\bin\Debug\net7.0\SortedSetProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\SortedSetProgramsCollectionEX.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\SortedSetProgramsCollectionEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\SortedSetProgramsCollectionEX.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\SortedSetProgramsCollectionEX.AssemblyInfo.cs
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\SortedSetProgramsCollectionEX.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\SortedSetProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\refint\SortedSetProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\SortedSetProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\SortedSetProgramsCollectionEX.genruntimeconfig.cache
+C:\Users\whizt\source\repos\SortedSetProgramsCollectionEX\SortedSetProgramsCollectionEX\obj\Debug\net7.0\ref\SortedSetProgramsCollectionEX.dll

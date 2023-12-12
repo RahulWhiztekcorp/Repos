@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2RH2sCMj+0J4ZNwhFuhn0WyDTALtmLjSdwsM+SQtdEM=",
+  "Source": "CoreWebApiService",
+  "BasePath": "_content/CoreWebApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+﻿@model WebApplicationNITExample.Models.Student
+@{
+    ViewBag.Title = "ModelIndex";
+}
+
+<h2>ModelIndex</h2>
+
+<table border="1" class="table table-bordered" align="center" width="15%">
+    <caption>Student Details</caption>
+    <tr><td>Id: </td><td>@Model.Id</td></tr>
+    <tr><td>FirstName: </td> <td>@Model.Firstname</td></tr>
+    <tr><td>LastName: </td> <td>@Model.Lastname</td></tr>
+</table>
+

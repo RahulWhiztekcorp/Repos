@@ -1,0 +1,41 @@
+﻿@*16-06-2023 start*@
+
+
+@{
+}
+
+<h2>DisplayEmp</h2>
+
+@*
+    Type 1
+    ViewData[""]r action to VIew
+    <div>
+        <table class="table table-bordered" border="1" align="center">
+            <caption>Employee Details</caption>
+            <tr><td>Employee Id:</td><td>@ViewData[""]</td></tr>
+            <tr><td>Employee Name:</td><td>@ViewData[""]me</td></tr>
+            <tr><td>Employee Job:</td><td>@ViewData[""]b</td></tr>
+            <tr><td>Employee Salary:</td><td>@ViewData[""]lary</td></tr>
+            <tr>
+                <td colspan="2" align="center"><a href="/Emp/AddEmp">Add a new Employee</a></td>
+            </tr>
+        </table>
+    </div>*@
+@*Type 2*@
+<div>
+    <h2>@ViewData["Error"]</h2>
+</div>
+<div>
+    <table class="table table-bordered" border="1" align="center">
+        <caption>Employee Details</caption>
+        <tr><td>Employee Id:</td><td>@ViewData["Id"]</td></tr>
+        <tr><td>Employee Name:</td><td>@ViewData["Name"]</td></tr>
+        <tr><td>Employee Job:</td><td>@ViewData["Job"]</td></tr>
+        <tr><td>Employee Salary:</td><td>@ViewData["Salary"]</td></tr>
+        <tr>
+            <td colspan="2" align="center"><a href="/Emp/AddEmp">Add a new Employee</a></td>
+        </tr>
+    </table>
+</div>
+
+@*end*@

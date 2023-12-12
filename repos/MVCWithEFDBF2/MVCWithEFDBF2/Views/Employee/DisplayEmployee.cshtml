@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "DisplayEmployee";
+}
+<h2 class="py-3 bg-dark text-info text-center ">Employee Details</h2>
+<table border="1" align="center" class="table table-bordered">
+    <tr><td>Eid:</td><td class="text-success fw-bold">@Model.Eid</td></tr>
+    <tr><td>Ename:</td><td class="text-success fw-bold">@Model.Ename</td></tr>
+    <tr><td>Job:</td><td class="text-success fw-bold">@Model.Job</td></tr>
+    <tr><td>Salary:</td><td class="text-success fw-bold">@Model.Salary</td></tr>
+    <tr><td>Status:</td><td class="text-success fw-bold">@Model.Status</td></tr>
+    <tr><td>Did:</td><td class="text-success fw-bold">@Model.Did</td></tr>
+    <tr><td>Dname:</td><td class="text-success fw-bold">@Model.Department.Dname</td></tr>
+    <tr><td>Location:</td><td class="text-success fw-bold">@Model.Department.Location</td></tr>
+    <tr>
+        <td colspan="2" align="center" class="text-success fw-bold">@Html.ActionLink("Back to Employee Details", "DisplayEmployees", null, new {@class="btn btn-link"})</td>
+    </tr>
+</table>

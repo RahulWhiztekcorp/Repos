@@ -1,0 +1,11 @@
+﻿h1 {
+    color: red;
+    text-align: center;
+    background-color: palegreen;
+    border-style: double;
+    border-bottom-color: bisque;
+    border-top-color: coral;
+    border-left-color: coral;
+    border-right-color: bisque;
+    text-decoration: underline;
+}

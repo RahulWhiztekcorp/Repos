@@ -1,0 +1,81 @@
+﻿@model ProductMVCAplication.Models.Product
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="container">
+    @using (Html.BeginForm("Update", "Product", FormMethod.Post))
+    {
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>Product Details</h1>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Product Id :
+                </div>
+                <div class="col-sm-6">
+                    @Html.TextBoxFor(m => m.PId, new { @class = "form-control",@readonly="true"})
+                    @Html.ValidationMessageFor(s=>s.PId,null,new{@class="text-danger"})
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Product Name :
+                </div>
+                <div class="col-sm-6">
+                    @Html.TextBoxFor(m => m.ProductName, new { @class = "form-control my-1", @placeholder = "Enter your ProductName" })
+                    @Html.ValidationMessageFor(s=>s.ProductName,null,new{@class="text-danger"})
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Product Price :
+                </div>
+                <div class="col-sm-6">
+                    @Html.TextBoxFor(m => m.ProductPrice, new { @class = "form-control my-1", @placeholder = "Enter your ProductPrice" })
+                    @Html.ValidationMessageFor(s=>s.ProductPrice,null,new{@class="text-danger"})
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Product Category :
+                </div>
+                <div class="col-sm-6">
+                    @{
+                        List<string> li = new List<string> { "Grocery", "Footwear", "Electronics", "Furniture", "Jewellery" };
+                        SelectList productitems = new SelectList(li);
+                    }
+                    @Html.DropDownListFor(s=>s.ProtductType, productitems, "-Select Product Type-",new{@class="form-control my-1"})
+                    @Html.ValidationMessageFor(s=>s.ProtductType,null,new{@class="text-danger"})
+                </div>
+            </div>
+            @if (Model.IsDelete==true)
+            {
+                <div class="row">
+                    <div class="col-sm-6">
+                        Do You Want Recover the data :
+                    </div>
+                    <div class="col-sm-6">
+                        @Html.RadioButtonFor(s=>s.IsDelete, "False") Yes
+                        @Html.RadioButtonFor(s=>s.IsDelete, "True") No
+                    </div>
+                </div>
+            }
+            <div class="row">
+                <div class="col-sm-6 text-center d-flex justify-content-evenly">
+                    <div>
+                        <button class="btn btn-danger">
+                            <a href="~/Product/Index" class="text-decoration-none text-light px-5">Cancel</a>
+                        </button>
+                    </div>
+                    <div>
+                        <button type="submit" value="Update" class="btn btn-success px-5">
+                            Save
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+     }
+</div>

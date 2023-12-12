@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Result Index";
+}
+<h2>MVC Action Results</h2>
+<ol>
+    <li>@Html.ActionLink("Json Result", "GetEmployees")</li>
+    <li>@Html.ActionLink("Download Docx", "DownloadDocx", null, new { target = "_blank" })</li>
+    <li>@Html.ActionLink("Download Doc", "DownloadDoc")</li>
+    <li>@Html.ActionLink("Facebook", "OpenFaceBook", null, new { target = "_blank" })</li>
+    <li>@Html.ActionLink("Twitter", "OpenTwitter", null, new { target = "_blank" })</li>
+    <li>@Html.ActionLink("Today’s date returned as ContentResult", "SendDate1")</li>
+    <li>@Html.ActionLink("Today’s date returned as String", "SendDate2")</li>
+    <li>@Html.ActionLink("नमस्ते बोलो returned as String", "SayHello1")</li>
+    <li>@Html.ActionLink("नमस्ते बोलो returned as ContentResult", "SayHello2")</li>
+    <li>@Html.ActionLink("Javascript Alert", "AlertUser")</li>
+    <li>@Html.ActionLink("Empty Result", "ReturnEmpty1")</li>
+    <li>@Html.ActionLink("Void Result", "ReturnEmpty2")</li>
+    <li>@Html.ActionLink("Partial Result", "PartialViewResult")</li>
+    <li>@Html.ActionLink("HttpStatusCode Result Badgateway", "HttpStatusCodeResultBadgateway")</li>
+    <li>@Html.ActionLink("HttpStatusCode Result unauthorized", "HttpStatusCodeResultunauthorized")</li>
+    <li>@Html.ActionLink("HttpNotFound Result", "HttpNotFoundResult")</li>
+</ol>

@@ -1,0 +1,16 @@
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\bin\Debug\net5.0\FileProgramEx.exe
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\bin\Debug\net5.0\FileProgramEx.deps.json
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\bin\Debug\net5.0\FileProgramEx.runtimeconfig.json
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\bin\Debug\net5.0\FileProgramEx.runtimeconfig.dev.json
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\bin\Debug\net5.0\FileProgramEx.dll
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\bin\Debug\net5.0\FileProgramEx.pdb
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\FileProgramEx.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\FileProgramEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\FileProgramEx.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\FileProgramEx.AssemblyInfo.cs
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\FileProgramEx.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\FileProgramEx.dll
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\refint\FileProgramEx.dll
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\FileProgramEx.pdb
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\FileProgramEx.genruntimeconfig.cache
+C:\Users\whizt\source\repos\FileProgramEx\FileProgramEx\obj\Debug\net5.0\ref\FileProgramEx.dll

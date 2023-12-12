@@ -1,0 +1,22 @@
+﻿@model MVCWithEFDBF2.Models.Employee
+@{
+    ViewBag.Title = "DeleteEmployee";
+}
+<h2 class="py-3 bg-dark text-info text-center">Delete Employee</h2>
+@using (Html.BeginForm("DeleteEmployee", "Employee"))
+{
+    <table border="1" class="table table-bordered">
+        <tr><td>Eid:</td><td>@Html.DisplayFor(E => E.Eid, new { @readonly = "true" })</td></tr>
+        <tr><td>Ename:</td><td>@Html.DisplayFor(E => E.Ename, new { @readonly = "true" })</td></tr>
+        <tr><td>Job:</td><td>@Html.DisplayFor(E => E.Job, new { @readonly = "true" })</td></tr>
+        <tr><td>Salary:</td><td>@Html.DisplayFor(E => E.Salary, new { @readonly = "true" })</td></tr>
+        <tr><td>Did:</td><td>@Html.DisplayFor(E => E.Did, new { @readonly = "true" })</td></tr>
+    </table>
+    <center>
+        <font color="red">Are you sure of deleting the current record?</font>
+        <input type="submit" value="Yes" />
+        <br />
+        @Html.ActionLink("Cancel", "DisplayEmployees", null, new {@class="btn btn-info text-decoration-none"})
+    </center>
+
+}

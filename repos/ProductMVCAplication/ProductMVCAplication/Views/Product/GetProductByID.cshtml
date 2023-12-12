@@ -1,0 +1,46 @@
+﻿@model ProductMVCAplication.Models.Product
+@{
+    ViewData["Title"] = "GetProductByID";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h1>Product Details</h1>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                Product Id : 
+            </div>
+            <div class="col-sm-6">
+                <h4 class="text-success">@Model.PId</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                Product Name :
+            </div>
+            <div class="col-sm-6">
+                <h4 class="text-success">@Model.ProductName</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                Product Price :
+            </div>
+            <div class="col-sm-6">
+                <h4 class="text-success">@Model.ProductPrice</h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                Product Category :
+            </div>
+            <div class="col-sm-6">
+                <h4 class="text-success">@Model.ProtductType</h4>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <button class="btn btn-primary"><a class="text-decoration-none text-white" href="~/Product/Index">Back To Index</a></button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,2 @@
+C:\Users\whizt\source\repos\MVCWithLinq3\MVCWithLinq3\obj\Debug\MVCWithLinq3.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\MVCWithLinq3\MVCWithLinq3\obj\Debug\MVCWithLinq3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+﻿@model List<MVCProject.Models.Customer>
+
+@{
+    ViewBag.Title = "DisplayCustomers";
+}
+<div>
+    @Html.Partial("_Header");
+    <h2>Customer Details</h2>
+    @foreach(var customer in Model)
+    {
+        Html.RenderPartial("_CustomerView", customer);
+    }
+</div>

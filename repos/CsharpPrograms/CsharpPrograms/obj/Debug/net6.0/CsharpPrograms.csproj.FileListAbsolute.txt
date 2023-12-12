@@ -1,0 +1,14 @@
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\bin\Debug\net6.0\CsharpPrograms.exe
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\bin\Debug\net6.0\CsharpPrograms.deps.json
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\bin\Debug\net6.0\CsharpPrograms.runtimeconfig.json
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\bin\Debug\net6.0\CsharpPrograms.dll
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\bin\Debug\net6.0\CsharpPrograms.pdb
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\CsharpPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\CsharpPrograms.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\CsharpPrograms.AssemblyInfo.cs
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\CsharpPrograms.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\CsharpPrograms.dll
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\refint\CsharpPrograms.dll
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\CsharpPrograms.pdb
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\CsharpPrograms.genruntimeconfig.cache
+C:\Users\whizt\source\repos\CsharpPrograms\CsharpPrograms\obj\Debug\net6.0\ref\CsharpPrograms.dll

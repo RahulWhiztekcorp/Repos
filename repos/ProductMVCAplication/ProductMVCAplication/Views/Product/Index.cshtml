@@ -1,0 +1,89 @@
+﻿@model IEnumerable<ProductMVCAplication.Models.Product>
+@{
+    ViewData["Title"] = "Product Index";
+}
+<div class="container">
+    <div class="d-flex">
+        <div class="me-auto p-2">
+            <button class="btn btn-primary"><a class="text-decoration-none text-white" href="~/Product/Create">Create</a></button>
+        </div>
+        <div class="p-2">
+            @using (Html.BeginForm("GetproductsByCategory", "Product", FormMethod.Post))
+            {
+                @Html.DropDownList("Sort",new SelectList(ViewBag.li),"Select Your Category",new { @class="form-control" ,@id="Sortid"})
+            }
+           @* <select class ="form-select">
+                <option>--Select--</option>
+                @foreach (var item in li)
+                {
+                    <option value=@item class="p-5">@item</option>
+                }
+            </select>*@
+        </div>
+    </div>
+    <div class="my-1">
+        <table class="table table-striped">
+            <tr>
+                <td>PId</td>
+                <td>ProductName</td>
+                <td>ProductPrice</td>
+                <td>ProtductType</td>
+                <td colspan="3"><center>Action</center></td>
+            </tr>
+            @foreach (var i in Model)
+            {
+                if (i.IsDelete == false)
+                {
+                    <tr>
+                        <td>@i.PId</td>
+                        <td>@i.ProductName</td>
+                        <td>@i.ProductPrice</td>
+                        <td>@i.ProtductType</td>
+                        <td>
+                            <center>
+                                <button class="btn btn-info" id="detailsbtnid"><a class="text-decoration-none text-white" href="~/Product/GetProductByID?ID=@i.PId">Details</a></button>
+                            </center>
+                        </td>
+                        <td>
+                            <center>
+                                <button class="btn btn-warning" id="updatebtn"><a class="text-decoration-none text-white" href="~/Product/Update?ID=@i.PId">Update</a></button>
+                            </center>
+                        </td>
+                        <td>
+                            <center>
+@*                                <button class="btn btn-danger" id="deletebtnid"><a class="text-decoration-none text-white" href="~/Product/Delete?ID=@i.PId">Delete</a></button>
+*@                                @Html.ActionLink("Delete", "Delete", new { ID = i.PId },new { @class="btn btn-danger",onclick = "return confirm('Are you sure of deleting the record?')" })
+                            </center>
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    <tr style="color:red;">
+                        <td>@i.PId</td>
+                        <td>@i.ProductName</td>
+                        <td>@i.ProductPrice</td>
+                        <td>@i.ProtductType</td>
+                        <td>
+                            <center>
+                                <button class="btn btn-info" id="detailsbtnid" disabled><a class="text-decoration-none text-decoration-line-through text-white" href="~/Product/GetProductByID?ID=@i.PId">Details</a></button>
+                            </center>
+                        </td>
+                        <td>
+                            <center>
+                                <button class="btn btn-warning active" id="updatebtn"><a class="text-decoration-none text-white" href="~/Product/Update?ID=@i.PId">Update</a></button>
+                            </center>
+                        </td>
+                        <td>
+                            <center>
+@*                                <button class="btn btn-danger" id="deletebtnid" disabled><a class="text-decoration-none text-decoration-line-through text-white" href="~/Product/Delete?ID=@i.PId">Delete</a></button>
+                        *@      @Html.ActionLink("Delete", "Delete", new { PId = i.PId },
+                        new {@class="btn btn-danger disabled text-decoration-line-through", onclick = "return confirm('Are you sure of deleting the record?')" })
+                            </center>
+                        </td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>

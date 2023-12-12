@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Index1";
+}
+<h2>Sample TempData Example</h2>
+
+<table class=" table table-bordered">
+    <tr>
+        <td class="px-2">ID :</td>
+        <td class="px-2 text-success">
+            <b>@TempData.Peek("id")</b>
+        </td>
+    </tr>
+    <tr>
+        <td class="px-2">FirstName :</td>
+        <td class="px-2 text-success">
+            <b>@TempData.Peek("firstname")</b>
+        </td>
+        @*prasadhari009@gmail.com*@
+    </tr>
+    <tr>
+        <td class="px-2">LastName :</td>
+        <td class="px-2 text-success">
+            <b>@TempData.Peek("lastname")</b>
+        </td>
+    </tr>
+</table>

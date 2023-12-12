@@ -1,0 +1,148 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+
+            <h2>Sample ViewData Example</h2>
+
+            <table class="table table-bordered">
+                <tr>
+                    <td class="px-2">ID :</td>
+                    <td class="px-2 text-success">
+                        <b>@ViewData["id"]</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="px-2">FirstName :</td>
+                    <td class="px-2 text-success">
+                        <b>@ViewData["firstname"]</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="px-2">LastName :</td>
+                    <td class="px-2 text-success">
+                        <b>@ViewData["lastname"]</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Colors(string[]) :</td>
+                    <td class="px-2">
+                        <select class="form-select">
+                            @foreach (string c in (string[])ViewData["coures"])
+                            {
+                                <option>@c</option>
+                            }
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Colors(List(string)) :</td>
+                    <td class="px-2">
+                        <select class="form-select">
+                            @foreach (string c in (List<string>)ViewData["listcoures"])
+                            {
+                                <option>@c</option>
+                            }
+                        </select>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-4">
+
+            <h2>Sample ViewBag Example</h2>
+
+            <table class=" table table-bordered">
+                <tr>
+                    <td class="px-2">ID :</td>
+                    <td class="px-2 text-success">
+                        <b>@ViewBag.id</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="px-2">FirstName :</td>
+                    <td class="px-2 text-success">
+                        <b>@ViewBag.firstname</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="px-2">LastName :</td>
+                    <td class="px-2 text-success">
+                        <b>@ViewBag.lastname</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Colors(string[]) :</td>
+                    <td class="px-2">
+                        <select class="form-select">
+                            @foreach (string c in (string[])ViewBag.coures)
+                            {
+                                <option>@c</option>
+                            }
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Colors(List(string)) :</td>
+                    <td class="px-2">
+                        <select class="form-select">
+                            @foreach (string c in (List<string>)ViewBag.listcoures)
+                            {
+                                <option>@c</option>
+                            }
+                        </select>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-4">
+            <h2>Sample TempData Example</h2>
+
+            <table class=" table table-bordered">
+                <tr>
+                    <td class="px-2">ID :</td>
+                    <td class="px-2 text-success">
+                        <b>@TempData["id"]</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="px-2">FirstName :</td>
+                    <td class="px-2 text-success">
+                        <b>@TempData["firstname"]</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="px-2">LastName :</td>
+                    <td class="px-2 text-success">
+                        <b>@TempData["lastname"]</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Colors(string[]) :</td>
+                    <td class="px-2">
+                        <select class="form-select">
+                            @foreach (string c in (string[])TempData["coures"])
+                            {
+                                <option>@c</option>
+                            }
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Colors(List(string)) :</td>
+                    <td class="px-2">
+                        <select class="form-select">
+                            @foreach (string c in (List<string>)TempData["listcoures"])
+                            {
+                                <option>@c</option>
+                            }
+                        </select>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>

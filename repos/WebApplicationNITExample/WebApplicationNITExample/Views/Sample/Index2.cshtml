@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Index2";
+}
+<h2>Index2</h2>
+@{ TempData.Keep(); }
+<table class=" table table-bordered">
+    <tr>
+        <td class="px-2">ID :</td>
+        <td class="px-2 text-success">
+            <b>@TempData["id"]</b>
+        </td>
+    </tr>
+    <tr>
+        <td class="px-2">FirstName :</td>
+        <td class="px-2 text-success">
+            <b>@TempData["firstname"]</b>
+        </td>
+    </tr>
+    <tr>
+        <td class="px-2">LastName :</td>
+        <td class="px-2 text-success">
+            <b>@TempData["lastname"]</b>
+        </td>
+    </tr>
+</table>

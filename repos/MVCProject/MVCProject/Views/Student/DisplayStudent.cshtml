@@ -1,0 +1,20 @@
+﻿@model MVCProject.Models.Student
+
+@{
+    ViewBag.Title = "DisplayStudent";
+}
+<div class="container">
+    <div>
+        @Html.Partial("_Header")
+    </div>
+    <h4>Student Details</h4>
+    <ul>
+        <li>Student Id: @Model.Sid</li>
+        <li>Student Name: @Model.Name</li>
+        <li>Student Class: @Model.Class</li>
+        <li>Student Gender: @Model.Gender</li>
+        <li>Student Fees: @Model.Fees</li>
+        <li>Student Address: @Model.Address</li>
+    </ul>
+</div>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />

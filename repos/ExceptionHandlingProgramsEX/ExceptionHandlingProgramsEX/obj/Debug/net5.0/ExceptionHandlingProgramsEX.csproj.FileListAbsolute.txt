@@ -1,0 +1,16 @@
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\bin\Debug\net5.0\ExceptionHandlingProgramsEX.exe
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\bin\Debug\net5.0\ExceptionHandlingProgramsEX.deps.json
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\bin\Debug\net5.0\ExceptionHandlingProgramsEX.runtimeconfig.json
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\bin\Debug\net5.0\ExceptionHandlingProgramsEX.runtimeconfig.dev.json
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\bin\Debug\net5.0\ExceptionHandlingProgramsEX.dll
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\bin\Debug\net5.0\ExceptionHandlingProgramsEX.pdb
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ExceptionHandlingProgramsEX.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ExceptionHandlingProgramsEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ExceptionHandlingProgramsEX.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ExceptionHandlingProgramsEX.AssemblyInfo.cs
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ExceptionHandlingProgramsEX.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ExceptionHandlingProgramsEX.dll
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\refint\ExceptionHandlingProgramsEX.dll
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ExceptionHandlingProgramsEX.pdb
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ExceptionHandlingProgramsEX.genruntimeconfig.cache
+C:\Users\whizt\source\repos\ExceptionHandlingProgramsEX\ExceptionHandlingProgramsEX\obj\Debug\net5.0\ref\ExceptionHandlingProgramsEX.dll

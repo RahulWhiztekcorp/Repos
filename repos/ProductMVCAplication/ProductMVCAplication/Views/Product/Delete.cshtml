@@ -1,0 +1,58 @@
+﻿@model ProductMVCAplication.Models.Product
+@{
+    ViewData["Title"] = "Delete";
+}
+<div class="container">
+    @using(Html.BeginForm("Delete","Product",FormMethod.Post)){
+    <center>
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>Delete Product</h1>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Product Id :
+                </div>
+                <div class="col-sm-6">
+                    <h4 class="text-success">@Model.PId</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Product Name :
+                </div>
+                <div class="col-sm-6">
+                    <h4 class="text-success">@Model.ProductName</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Product Price :
+                </div>
+                <div class="col-sm-6">
+                    <h4 class="text-success">@Model.ProductPrice</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6">
+                    Product Category :
+                </div>
+                <div class="col-sm-6">
+                    <h4 class="text-success">@Model.ProtductType</h4>
+                    <h4 class="text-success">@Model.IsDelete</h4>
+                </div>
+            </div>
+            <div class="col-sm-12 ">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <button class="btn btn-primary px-5"><a class="text-decoration-none text-white" href="~/Product/Index">Cancel</a></button>
+                    </div>
+                    <div class="col-sm-6">
+                            <input type="submit" value="Delete" class="btn btn-success px-5" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </center>
+    }
+</div>

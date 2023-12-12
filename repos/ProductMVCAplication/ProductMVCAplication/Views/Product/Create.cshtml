@@ -1,0 +1,70 @@
+﻿@model ProductMVCAplication.Models.Product
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+<div class="container">
+@using(Html.BeginForm("Create","Product",FormMethod.Post)){
+    <div class="row">
+        <div>
+            <div class="row my-2">
+                <div class="col-sm-6 text-center">
+                    @Html.LabelFor(s=>s.PId,"Product ID : ")
+                </div>
+                <div class="col-sm-6 ">
+                    @Html.TextBoxFor(m => m.PId, new { @class = "form-control", @placeholder = "Enter your Product ID" })
+                    @Html.ValidationMessageFor(s=>s.PId,null,new{@class="text-danger"})
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-sm-6 text-center">
+                    @Html.LabelFor(s=>s.ProductName,"Product Name : ")
+                </div>
+                <div class="col-sm-6 ">
+                    @Html.TextBoxFor(m => m.ProductName, new { @class = "form-control my-1", @placeholder = "Enter your ProductName" })
+                    @Html.ValidationMessageFor(s=>s.ProductName,null,new{@class="text-danger"})
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-sm-6 text-center">
+                    @Html.LabelFor(s=>s.ProductPrice,"Product Price : ")
+                </div>
+                <div class="col-sm-6 ">
+                    @Html.TextBoxFor(m => m.ProductPrice, new { @class = "form-control my-1", @placeholder = "Enter your ProductPrice" })
+                    @Html.ValidationMessageFor(s=>s.ProductPrice,null,new{@class="text-danger"})
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-sm-6 text-center">
+                    @Html.LabelFor(s=>s.ProtductType,"Protduct Type : ")
+                </div>
+                <div class="col-sm-6 ">
+                    @{
+                        List<string> li = new List<string> { "Grocery", "Footwear", "Electronics", "Furniture", "Jewellery" };
+                        SelectList productitems = new SelectList(li);
+                    }
+                    @Html.DropDownListFor(s=>s.ProtductType, productitems, "-Select Product Type-",new{@class="form-control my-1"})
+                    @Html.ValidationMessageFor(s=>s.ProtductType,null,new{@class="text-danger"})
+                </div>
+            </div>
+            <div class="row my-2">
+                <div class="col-sm-6 text-center">
+                    
+                </div>
+                <div class="col-sm-6 text-center d-flex justify-content-evenly">
+                    <div>
+                        <button class="btn btn-danger">
+                            <a href="~/Product/Index" class="text-decoration-none text-light px-5">Cancel</a>
+                        </button>
+                    </div>
+                    <div>
+                        <button type="submit" value="Create" class="btn btn-success px-5">
+                            Save
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+</div>

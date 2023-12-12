@@ -1,0 +1,30 @@
+﻿@using MVCWithXMLFile.Models;
+@model IEnumerable<MVCWithXMLFile.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Product List using XML</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Product Name</th>
+        <th>Product Cost</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.to)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.heading)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.body)
+            </td>
+        </tr>
+
+    }
+</table> 

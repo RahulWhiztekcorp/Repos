@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StackProgramsCollectionEX/1.0.0": {
+        "runtime": {
+          "StackProgramsCollectionEX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackProgramsCollectionEX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

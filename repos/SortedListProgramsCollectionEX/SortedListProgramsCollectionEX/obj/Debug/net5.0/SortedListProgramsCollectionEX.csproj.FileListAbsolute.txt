@@ -1,0 +1,16 @@
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\bin\Debug\net5.0\SortedListProgramsCollectionEX.exe
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\bin\Debug\net5.0\SortedListProgramsCollectionEX.deps.json
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\bin\Debug\net5.0\SortedListProgramsCollectionEX.runtimeconfig.json
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\bin\Debug\net5.0\SortedListProgramsCollectionEX.runtimeconfig.dev.json
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\bin\Debug\net5.0\SortedListProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\bin\Debug\net5.0\SortedListProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\SortedListProgramsCollectionEX.csproj.AssemblyReference.cache
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\SortedListProgramsCollectionEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\SortedListProgramsCollectionEX.AssemblyInfoInputs.cache
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\SortedListProgramsCollectionEX.AssemblyInfo.cs
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\SortedListProgramsCollectionEX.csproj.CoreCompileInputs.cache
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\SortedListProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\refint\SortedListProgramsCollectionEX.dll
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\SortedListProgramsCollectionEX.pdb
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\SortedListProgramsCollectionEX.genruntimeconfig.cache
+C:\Users\whizt\source\repos\SortedListProgramsCollectionEX\SortedListProgramsCollectionEX\obj\Debug\net5.0\ref\SortedListProgramsCollectionEX.dll
